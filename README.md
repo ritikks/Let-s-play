@@ -1,4 +1,5 @@
 # Let-s-play
+link to website-![click me](https://ritikks.github.io/Let-s-play/)
 
 Designed and developed a simple game 
 where user has to jump to avoid colliding with obstacle.
